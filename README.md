@@ -1,3 +1,3 @@
-# shuttlecoin
+# Shuttle SE
 
-Shuttlecoin is a POW / POS Cryptocurrency
+Shuttle SE is a POW / POS Cryptocurrency
